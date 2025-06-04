@@ -21,7 +21,7 @@ Prototype is engineers who appreciate aesthetics, designers who get excited abou
 
 We've put thought into creating comfortable, organic shared workspaces that facilitate both focused deep work and natural collaboration. The kind of environment where good ideas flow naturally.
 
-We're looking for housemates who:
+We're looking for groupmates who:
 - Care deeply about both building and connecting
 - Bring their own unique perspectives to the collective
 - Actually ship things
@@ -29,7 +29,7 @@ We're looking for housemates who:
 
 If you're the type of person who finds equal satisfaction in optimizing systems and debating modal realism at 2am, you might just fit right in.
 
-This is an experiment in collaborative living where everyone levels up together. High agency, low drama/(high EQ), maximum potential for interesting objects to emerge.`,
+This is an experiment in collaborative creative work where everyone levels up together. High agency, low drama/(high EQ), maximum potential for interesting objects to emerge.`,
     xLink: "https://x.com/prototypesf",
     specialLinks: [
       { text: "Apply", url: "mailto:prototypesf@lukalot.com" }
