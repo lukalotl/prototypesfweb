@@ -63,7 +63,7 @@ const data = {
     { id: "Anton Balitskyi", group: 2, type: "person", xLink: "https://x.com/antonbalitskyi" },
     { id: "Jaivin Wylde", group: 2, type: "person", xLink: "https://x.com/jaivinwylde" },
     { id: "Celeste", group: 2, type: "person", xLink: "https://x.com/parafactual" },
-    { id: "Jared Mantell", group: 2, type: "person", xLink: "https://x.com/0xredJ" },
+    { id: "Jared Mantell", group: 2, type: "person", xLink: "https://x.com/sudoredj" },
     { id: "Joe Krisciunas", group: 2, type: "person", xLink: "https://x.com/1bit2far" },
     { id: "Constantine Belenko", group: 2, type: "person", xLink: "https://x.com/0x466161" }
   ],
