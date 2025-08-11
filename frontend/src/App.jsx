@@ -62,22 +62,20 @@ const data = {
     { id: "Verda Korz", group: 2, type: "person", xLink: "https://x.com/verdakorz" },
     { id: "Anton Balitskyi", group: 2, type: "person", xLink: "https://x.com/antonbalitskyi" },
     { id: "Jaivin Wylde", group: 2, type: "person", xLink: "https://x.com/jaivinwylde" },
-    { id: "Sav Sidorov", group: 2, type: "person", xLink: "https://x.com/savsidorov" },
     { id: "Celeste", group: 2, type: "person", xLink: "https://x.com/parafactual" },
     { id: "Jared Mantell", group: 2, type: "person", xLink: "https://x.com/0xredJ" },
     { id: "Joe Krisciunas", group: 2, type: "person", xLink: "https://x.com/1bit2far" },
-    { id: "Yoyo Yuan", group: 2, type: "person", xLink: "https://x.com/indiraschka" }
+    { id: "Constantine Belenko", group: 2, type: "person", xLink: "https://x.com/0x466161" }
   ],
   links: [
     { source: "Luka Arnold", target: "Prototype" },
     { source: "Verda Korz", target: "Prototype" },
     { source: "Anton Balitskyi", target: "Prototype" },
     { source: "Jaivin Wylde", target: "Prototype" },
-    { source: "Sav Sidorov", target: "Prototype" },
     { source: "Celeste", target: "Prototype" },
     { source: "Jared Mantell", target: "Prototype" },
     { source: "Joe Krisciunas", target: "Prototype" },
-    { source: "Yoyo Yuan", target: "Prototype" }
+    { source: "Constantine Belenko", target: "Prototype" },
   ]
 }
 
