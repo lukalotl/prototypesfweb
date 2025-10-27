@@ -65,7 +65,8 @@ const data = {
     { id: "Celeste", group: 2, type: "person", xLink: "https://x.com/parafactual" },
     { id: "Jared Mantell", group: 2, type: "person", xLink: "https://x.com/sudoredj" },
     { id: "Joe Krisciunas", group: 2, type: "person", xLink: "https://x.com/1bit2far" },
-    { id: "Constantine Belenko", group: 2, type: "person", xLink: "https://x.com/0x466161" }
+    { id: "Constantine Belenko", group: 2, type: "person", xLink: "https://x.com/0x466161" },
+    { id: "Henry", group: 2, type: "person", xLink: "https://x.com/arithmoquine" }
   ],
   links: [
     { source: "Luka Arnold", target: "Prototype" },
