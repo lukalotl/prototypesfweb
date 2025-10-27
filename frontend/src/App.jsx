@@ -77,6 +77,7 @@ const data = {
     { source: "Jared Mantell", target: "Prototype" },
     { source: "Joe Krisciunas", target: "Prototype" },
     { source: "Constantine Belenko", target: "Prototype" },
+    { source: "Henry", target: "Prototype" },
   ]
 }
 
